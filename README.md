@@ -1,0 +1,1 @@
+In this application i first created the backbone html file containing the skeleton of the application. After that i created the js file to implement the functionality and business logic. Lastly i styled all the elements so the application achieves a complete look.
